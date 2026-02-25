@@ -1,0 +1,9 @@
+{
+    "board": "esp32:esp32:esp32wroverkit",
+    "sketch": "wifi-scan.ino",
+    "output": "build",
+    "otherLibrariesFolders": "C:\\projects\\home\\libraries",
+    "port": "COM3",
+    "programmer": "esptool",
+    "configuration": "FlashSize=4M,PSRAM=enabled,PartitionScheme=default,CPUFreq=240,FlashMode=qio,FlashFreq=80,UploadSpeed=921600,DebugLevel=none,EraseFlash=none"
+}

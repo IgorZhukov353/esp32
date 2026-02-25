@@ -1,0 +1,7 @@
+{
+    "arduino.useArduinoCli": true,
+    "arduino.path22": "c:\\users\\Igor\\appdata\\local\\arduino15",
+    "arduino.commandPath22": "arduino-cli.exe",
+    "arduino.logLevel": "info",
+    "C_Cpp.errorSquiggles22": "disabled"
+}
